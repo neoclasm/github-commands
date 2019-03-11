@@ -2,7 +2,7 @@
 Creating this because I have amnesia and don't want to google everytime 
 
 # Commands Related to Branches
-`git checkout branch_name`  // switch branch
+`git checkout branch_name`  // switch branch \n
 `git checkout -b new-branch-name`   // make new branch 
 `git branch` // check out which branch 
 
