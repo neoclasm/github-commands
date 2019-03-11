@@ -15,6 +15,7 @@ Creating this because I have amnesia and don't want to google everytime <br />
 `git status` // documents you changed appear red <br />
 `git add -u` // adds the updates <br />
 `git add .` or `git add --all` // add all files  <br />
+`git reset` // un-add the file <br />
 `git commit -m "your_message"` // keep commits granular <br />
 `git push` <br />
 `git rm -r [file-name.txt]` // discard files <br />
