@@ -9,7 +9,7 @@ Creating this because I have amnesia and don't want to google everytime <br />
 # Commands Related to Making a PR
 `git status` // documents you changed appear red <br />
 `git add -u` // adds the updates <br />
-`git add .` or `git add --all` // add all files
+`git add .` or `git add --all` // add all files  <br />
 `git commit -m "your_message"` // keep commits granular <br />
 `git push` <br />
 
