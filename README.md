@@ -19,4 +19,4 @@ Creating this because I have amnesia and don't want to google everytime <br />
 `git pull origin master` <br />
 `git checkout existing-branch-name` <br />
 `git rebase master` <br />
-`git push origin <branch_name> --force`  // need to force-push <br />
+`git push origin <branch_name> --force` or `git push origin +reposity_name`// need to force-push after rebasing for changes to be pushed <br />
