@@ -7,6 +7,8 @@ Creating this because I have amnesia and don't want to google everytime <br />
 `git clone ssh://git@github.com/[username]/[repository_name].git`	Create a local copy of a remote repository <br />
 
 # Commands Related to Branches
+`git checkout master` // switch to master <br />
+`git pull origin master` // updates master to most recent changes <br />
 `git checkout branch_name`  // switch branch <br />
 `git checkout -b new-branch-name`   // make new branch <br />
 `git branch` // check out which branch <br />
